@@ -1,4 +1,3 @@
-/ip dns static
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
 1.s.adsco.re
